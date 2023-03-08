@@ -1,39 +1,36 @@
 # Used Car Website
 
-## Features
+Estifanos Beyene
 
-Display latest used cars for sale posts
+Started: March 08, 2023
 
-1. build a web scraper for [auto tempest](https://www.autotempest.com/)
+---
 
-Search for used cars using #TODO
+## Key words:
 
-Create used car posting, exclusive to site
+Web scraping, TypeScript, Svelte
 
-Create account:
+## Project Overview:
 
-- save postings you are interested in
-- create postings(exclusive to site)
+This project serves as the capstone project for my introduction to SvelteKit course. I have been interested in building a full-stack project using SvelteKit, and will be using the opportunity to create a car website.
 
-## Using
+I am currently considering purchasing a car, and I want to create a website for that purpose. This project is intended to cement my understanding of SvelteKit, TypeScript, API's and SQL.
 
-SvelteKit + TypeScript
+## Website introduction:
 
-PrismaORM
+The website mainly serves four purposes:
 
-[SvelteKit Auth](https://authjs.dev/reference/sveltekit)
+1. Display used cars for sale within 100miles of user's location (or in the US).
+2. Create an account, and save the cars you are interested in
+3. Search for a car by brand, distance, year, millage, and price.
+4. Create site-only used car sale posts
 
-TailwindCSS
+## Limitations
 
-## Models
+Since there are no available api to use, web scraping and html parsing are used to extract information from (#TODO).
 
-```typescript
-interface User {
-  userName: string; // unique
-  hashedPassword: string; // need
-  savedCars: Car[];
-  postedCars: Car[];
-}
+The used car postings made within the website will not be shared elsewhere on the internet.
 
-interface Car {}
-```
+## Instructions:
+
+Visit the website at: #TODO
