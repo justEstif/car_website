@@ -4,8 +4,6 @@ Estifanos Beyene
 
 Started: March 08, 2023
 
----
-
 ## Key words:
 
 Web scraping, TypeScript, Svelte
@@ -14,7 +12,7 @@ Web scraping, TypeScript, Svelte
 
 This project serves as the capstone project for my introduction to SvelteKit course. I have been interested in building a full-stack project using SvelteKit, and will be using the opportunity to create a car website.
 
-I am currently considering purchasing a car, and I want to create a website for that purpose. This project is intended to cement my understanding of SvelteKit, TypeScript, API's and SQL.
+I am currently considering purchasing a car, and I want to create a website for that purpose. This project is intended to cement my understanding of SvelteKit, TypeScript, APIs and SQL.
 
 ## Website introduction:
 
